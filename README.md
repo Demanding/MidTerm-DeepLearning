@@ -3,7 +3,8 @@ Implemented our project in tensorflow, the idea behind the project is to find th
 
 please download weights of alexnet and put in the same folder. Download url is:http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/
 please download weighs of VGG16 and put in the same folder Download URL link: ftp://mi.eng.cam.ac.uk/pub/mttt2/models/vgg16.npy 
-
+please download caltech101 images from http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+please download caltech256 images from http://www.vision.caltech.edu/Image_Datasets/Caltech256/
 
 1. In datasets folder, we have Caltech 101 and Caltech 256 datasets along with train and test txt files, which have paths to Caltech 101 and Caltech 256 images.
 2. Since the overall dataset size is not huge, we have included datasets also
